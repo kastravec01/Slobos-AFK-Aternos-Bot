@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Shaban",
+    "username": ".",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "CrazyCoolSMP.aternos.me",
-    "port": 60626,
+    "ip": "1120.aternos.me",
+    "port": 59250,
     "version": "",
     "try-creative": false
   },
