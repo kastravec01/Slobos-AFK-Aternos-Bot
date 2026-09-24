@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "Saassseee__01234",
   "bot-account": {
     "username": ".",
     "password": "",
     "type": "online"
   },
   "server": {
-    "ip": "1120.aternos.me",
+    "ip": "CSpros.aternos.me",
     "port": 59250,
-    "version": "1.12.2",
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
@@ -74,7 +74,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "",
     "events": {
       "connect": true,
       "disconnect": true,
