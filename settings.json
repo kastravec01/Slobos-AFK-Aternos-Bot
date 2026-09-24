@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "CSpros.aternos.me",
-    "port": 59250,
+    "port": 16139,
     "version": "26.2",
     "try-creative": false
   },
